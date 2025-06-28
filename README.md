@@ -34,10 +34,10 @@ Currently, I’m leading frontend efforts at **Darey.io** while contributing to 
 
 ## 🏗️ Featured Projects
 - **[Darey.io](https://www.darey.io/)** – Hands-on platform empowering tech talents  
-  _React, TypeScript, Zustand, Tailwind, React Query_
+  _React, Next, TypeScript, Zustand, Tailwind, React Query_
   
 - **[Xterns](https://xterns.ai/)** – Hands-on platform empowering tech talents  
-  _React, TypeScript, Zustand, Tailwind, React Query_
+  _React, Next, TypeScript, Zustand, Tailwind, React Query_
 
 - **[Truckdispatch](https://www.gettruckdispatch.com/)** – Fleet & logistics management system  
   _React, Next.js, Node.js, MongoDB, Styled Components_
