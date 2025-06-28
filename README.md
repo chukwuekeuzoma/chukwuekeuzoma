@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Chukwueke Martins
 
 ### 🚀 Lead Frontend Developer | React Enthusiast | Mentor  
-📍 Lagos, Nigeria | 📧 chukwuekeuzoma@gmail.com | 📞 +243814404529  
+📍 Lagos, Nigeria | 📧 chukwuekeuzoma@gmail.com | 📞 +243814404529  | 📞 +243913699400
 [LinkedIn](https://www.linkedin.com/in/martins-chukwueke-6898981b0/) | [GitHub](https://github.com/chukwuekeuzoma/) | [GitLab](https://gitlab.com/chukwuekeuzoma)
 
 ---
@@ -51,7 +51,7 @@ Currently, I’m leading frontend efforts at **Darey.io** while contributing to 
 - **[MaxFiles](https://max-files.web.app/home)** – Cloud file sharing  
   _React, Material UI, TypeScript_
 
-- See more in [my repositories](https://github.com/YOUR_GITHUB?tab=repositories) →
+- See more in [my repositories](https://github.com/chukwuekeuzoma?tab=repositories) →
 
 ---
 
@@ -74,19 +74,3 @@ _Enugu State University of Science and Technology_
 > *“Clean code. Clear purpose. Creative impact.”*
 
 Thanks for stopping by! Feel free to connect or check out my recent work. 🙏
-
-
-<!--
-**chukwuekeuzoma/chukwuekeuzoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
