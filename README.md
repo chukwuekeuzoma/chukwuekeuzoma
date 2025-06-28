@@ -33,7 +33,7 @@ Currently, I’m leading frontend efforts at **Darey.io** while contributing to 
 ---
 
 ## 🏗️ Featured Projects
-**[Darey.io](https://www.darey.io/)** – Hands-on platform empowering tech talents  
+- **[Darey.io](https://www.darey.io/)** – Hands-on platform empowering tech talents  
   _React, TypeScript, Zustand, Tailwind, React Query_
   
 - **[Xterns](https://xterns.ai/)** – Hands-on platform empowering tech talents  
